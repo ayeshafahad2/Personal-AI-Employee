@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables - NEVER COMMIT
+.env
+*.env
+!requirements.txt
+
+# Credentials & Tokens
+token.json
+credentials.json
+*.key
+*.pem
+.secrets
+
+# Logs
+*.log
+Logs/
+AI_Employee_Vault/Logs/
+
+# Screenshots & Images (generated)
+*.png
+!dashboard/public/*.ico
+
+# Reports
+*.json
+!package.json
+!tsconfig.json
+!mcp.json
+!dashboard/package.json
+social_media_report.json
+
+# Test files
+test_*.py
+*_test.py
+
+# Temporary files
+$null
+why
+
+# Qwen backup files
+.qwen/commands/*.backup
+
+# Browser sessions
+.linkedin_session/
+.whatsapp_session/
+.instagram_session/
+.twitter_session/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (for dashboard)
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
