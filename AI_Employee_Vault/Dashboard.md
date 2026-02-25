@@ -11,3 +11,12 @@
 
 - System initialized
 - Ready to process incoming communications
+## Social Media
+
+| Platform | Posts | Today |
+|----------|-------|-------|
+| Facebook | 0 | 0 |
+| Twitter | 0 | 0 |
+
+See full details: [[Social_Media/Dashboard|Social Media Dashboard]]
+
